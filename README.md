@@ -1,4 +1,4 @@
-#  Hi, I'm a Backend / Full-stack Developer!
+#  Hi, I'm a Full-stack Developer!
 
 Passionate about building high-performance, maintainable, and well-architected software systems. Below are the key projects I have participated in developing.
 

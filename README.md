@@ -171,10 +171,4 @@ Hey, I'm **Julian Hoang** (`nhocbinhbo99`) &mdash; a **Full-stack Developer** fo
 
   <br/><br/>
 
-  <sub>
-    Engineered by <a href="https://github.com/nhocbinhbo99"><strong>Julian Hoang</strong></a>
-    &mdash; Full-stack Developer
-    &mdash; <code>nhocbinhbo99</code>
-  </sub>
-
 </div>

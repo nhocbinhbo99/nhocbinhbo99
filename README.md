@@ -1,60 +1,180 @@
-#  Hi, I'm a Full-stack Developer!
+<div align="center">
 
-Passionate about building high-performance, maintainable, and well-architected software systems. Below are the key projects I have participated in developing.
+  <!-- 1. HERO MATRIX RAIN & IDENTITY -->
+  <img src="./assets/matrix-banner.svg" width="100%" alt="JULIAN HOANG // MATRIX CORE" />
 
----
+  <br/>
 
-##  Technologies & Skills
+  <!-- 2. BIO & IDENTITY DESCRIPTION -->
+  <p align="center">
+    <strong>Full-stack Developer &amp; Software Systems Builder</strong> &bull; Creator of <a href="https://ticketflix.me"><strong>TicketFlix</strong></a><br/>
+    <sub>Passionate about building high-performance, maintainable, and well-architectured software systems.</sub>
+  </p>
 
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  
-  <!-- Frameworks & Libraries -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/JavaFX-FF0000?style=for-the-badge&logo=java&logoColor=white" alt="JavaFX" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
-  
-  <!-- Databases & Tools -->
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+  <br/>
 
----
+  <!-- 3. MATRIX COMMAND PROMPT TYPING -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=17&pause=1000&color=FFFFFF&center=true&vCenter=true&width=760&height=36&lines=Full-stack+developer+kernel+loaded+%E2%80%94+ACTIVE;React+19+%2B+Node.js+%2B+Java+modules+initialized;TicketFlix+real-time+booking+engine+online;Maven+multi-module+architecture+verified;Compiling+clean+systems...+ready+for+production"
+    alt="System log"
+  />
 
-##  Key Projects
+  <br/><br/>
 
-### 1.  TicketFlix - Online Movie Ticket Booking System
-*Personal Project / Final project for React Web Interface Development course*
-* **Tech Stack**: React 19, React Router v7, Tailwind CSS v4, Node.js (Express), MongoDB, MoMo Sandbox API (for testing purposes), Google OAuth 2.0.
-* **Role**: Full-stack Developer (System Design, Frontend Development, Backend Processing).
-* **Description**:
-  - Developed an intuitive movie ticket booking interface with a dynamic, real-time seating map (Standard, VIP, Double).
-  - Integrated **MoMo Sandbox** payment gateway for secure, simulated online transactions.
-  - Configured quick login via Google OAuth 2.0 and a JWT-based security system for user accounts.
-  - Implemented dynamic light ray effects interacting with mouse movements to optimize the user interface experience.
-* **Live Demo**: [ticketflix.me](https://ticketflix.me)
+  <!-- 4. MONOCHROME MATRIX BADGES -->
+  <img src="https://img.shields.io/badge/ROLE-FULL--STACK_DEVELOPER-050505?style=for-the-badge&labelColor=000000&color=ffffff" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/HANDLE-NHOCBINHBO99-050505?style=for-the-badge&labelColor=000000&color=ffffff" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/FOCUS-HIGH--PERFORMANCE_SYSTEMS-050505?style=for-the-badge&labelColor=000000&color=ffffff" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/STACK-REACT_%26_JAVA_ECOSYSTEM-050505?style=for-the-badge&labelColor=000000&color=ffffff" />
 
-### 2.  Pharmacy Management System – Re-architecture
-*Group Project | Role: Backend / Java Developer*
-* **Tech Stack**: Java, JavaFX, Maven Multi-module, JPA/Hibernate, SQL.
-* **Role**: Backend Developer and System Re-architect.
-* **Description**:
-  - **Re-architecture**: Restructured the pharmacy management system from a legacy monolithic codebase into a modern **Maven Multi-module** architecture with independent modules: `common`, `server`, and `client`.
-  - **Separation of Concerns**: Improved code readability and maintainability by isolating business logic, data access, and client-side UI processing layers.
-  - **Database Optimization**: Utilized **JPA/Hibernate ORM** to manage persistent data storage, minimizing raw SQL queries within the application logic.
-  - **Core Feature Development**: Directly built modules for product (medication) management, billing/invoicing, inventory control, and real-time sales reporting.
-  - **Acquired Skills**: Enhanced teamwork skills (Git, task delegation), code refactoring, technical documentation writing, and module-based Java application development.
+  <br/><br/>
 
----
+  <img src="https://komarev.com/ghpvc/?username=nhocbinhbo99&style=for-the-badge&color=ffffff&labelColor=050505&label=TELEMETRY+READS" />
 
-##  Contact Me
-- **Email:** [thanhconghp.global@gmail.com](mailto:thanhconghp.global@gmail.com)
-- **Zalo:** [0889285559](https://zalo.me/0889285559)
+</div>
+
+<br/>
+
+<img src="./assets/matrix-divider.svg" width="100%" alt="---" />
+
+## WHO AM I ?
+
+> *"Passionate about building high-performance, maintainable, and well-architectured software systems."*
+
+Hey, I'm **Julian Hoang** (`nhocbinhbo99`) &mdash; a **Full-stack Developer** focused on crafting responsive web applications and clean, modular backend architectures.
+
+* **Full-Stack Web Engineering:** Building interactive, modern web interfaces with **React 19**, **React Router v7**, and **Tailwind CSS v4**, backed by **Node.js (Express)**, **MongoDB**, **Google OAuth 2.0**, and **JWT** authentication.
+* **System Re-architecture & Java Backend:** Experienced in refactoring legacy monolithic codebases into clean **Maven Multi-module** architectures (`common`, `server`, `client`) with strict separation of concerns and **JPA/Hibernate ORM** optimization.
+* **End-to-End Product Delivery:** From real-time interactive seating maps and **MoMo Sandbox** payment flows to inventory, billing, and real-time sales reporting modules.
+
+<br/>
+
+<img src="./assets/matrix-divider.svg" width="100%" alt="---" />
+
+## ACTIVE PROCESSES
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <!-- Add GitHub repo URL to href="" below when ready -->
+      <p><strong><a href="">TICKETFLIX</a></strong> &nbsp; <code>[PID: 0x01 // WEB]</code> &bull; <a href="https://ticketflix.me"><strong>Live Demo</strong></a></p>
+      <p><sub>Online Movie Ticket Booking System (Personal Project)</sub></p>
+      <p>
+        Intuitive movie ticket booking platform featuring a dynamic, real-time seating map
+        (Standard, VIP, Double), <strong>MoMo Sandbox</strong> payment integration, quick login via
+        <strong>Google OAuth 2.0</strong> with <strong>JWT</strong> security, and mouse-interactive dynamic light ray effects.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React_19-000000?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_Router_v7-000000?style=flat-square&logo=reactrouter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS_v4-000000?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <!-- Add GitHub repo URL to href="" below when ready -->
+      <p><strong><a href="">PHARMACY MANAGEMENT SYSTEM</a></strong> &nbsp; <code>[PID: 0x02 // JAVA]</code></p>
+      <p><sub>System Re-architecture (Group Project &mdash; Backend / Java Developer)</sub></p>
+      <p>
+        Restructured a legacy monolithic pharmacy system into a modern <strong>Maven Multi-module</strong>
+        architecture (<code>common</code>, <code>server</code>, <code>client</code>) with strict separation of concerns.
+        Optimized persistence with <strong>JPA/Hibernate ORM</strong> and built core modules for medication
+        management, billing/invoicing, inventory control, and real-time sales reporting.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaFX-000000?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Maven_Multi--module-000000?style=flat-square&logo=apachemaven&logoColor=white" />
+        <img src="https://img.shields.io/badge/JPA_%2F_Hibernate-000000?style=flat-square&logo=hibernate&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<img src="./assets/matrix-divider.svg" width="100%" alt="---" />
+
+## LOADED MODULES
+
+<table width="100%">
+  <tr>
+    <td width="18%" valign="middle"><strong>LANGUAGES</strong></td>
+    <td width="82%" valign="middle">
+      <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="18%" valign="middle"><strong>FRONTEND</strong></td>
+    <td width="82%" valign="middle">
+      <img src="https://img.shields.io/badge/React_19-000000?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/React_Router_v7-000000?style=flat-square&logo=reactrouter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS_v4-000000?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaFX-000000?style=flat-square&logo=openjdk&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="18%" valign="middle"><strong>BACKEND</strong></td>
+    <td width="82%" valign="middle">
+      <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/JPA_%2F_Hibernate-000000?style=flat-square&logo=hibernate&logoColor=white" />
+      <img src="https://img.shields.io/badge/Maven_Multi--module-000000?style=flat-square&logo=apachemaven&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="18%" valign="middle"><strong>DATABASE &amp; AUTH</strong></td>
+    <td width="82%" valign="middle">
+      <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google_OAuth_2.0-000000?style=flat-square&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/MoMo_Sandbox_API-000000?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="18%" valign="middle"><strong>TOOLS &amp; DESIGN</strong></td>
+    <td width="82%" valign="middle">
+      <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Separation_of_Concerns-000000?style=flat-square" />
+      <img src="https://img.shields.io/badge/System_Re--architecture-000000?style=flat-square" />
+      <br/>
+      <img src="./assets/spacer.svg" width="950" height="1" alt="" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="./assets/matrix-drone.svg" width="100%" alt="Matrix Chrome Dino Runner" />
+
+<img src="./assets/matrix-divider.svg" width="100%" alt="---" />
+
+<div align="center">
+
+  <a href="mailto:thanhconghp.global@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-thanhconghp.global%40gmail.com-050505?style=for-the-badge&labelColor=000000&color=ffffff&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://zalo.me/0889285559">
+    <img src="https://img.shields.io/badge/ZALO-0889285559-050505?style=for-the-badge&labelColor=000000&color=ffffff&logo=zalo&logoColor=white" alt="Zalo" />
+  </a>
+
+  <br/><br/>
+
+  <sub>
+    Engineered by <a href="https://github.com/nhocbinhbo99"><strong>Julian Hoang</strong></a>
+    &mdash; Full-stack Developer
+    &mdash; <code>nhocbinhbo99</code>
+  </sub>
+
+</div>

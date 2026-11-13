@@ -328,7 +328,7 @@
         <!-- Main Title -->
         <text x="500" y="165" text-anchor="middle" font-size="62" font-weight="900" fill="#ffffff" letter-spacing="8">JULIAN HOANG</text>
         <!-- Subtitle -->
-        <text x="500" y="206" text-anchor="middle" font-size="13" font-weight="600" fill="#ffffff" letter-spacing="5" opacity="0.85">FULL-STACK DEVELOPER  /  SOFTWARE SYSTEMS BUILDER</text>
+        <text x="500" y="206" text-anchor="middle" font-size="13" font-weight="600" fill="#ffffff" letter-spacing="5" opacity="0.85">FULL-STACK DEVELOPER</text>
         <!-- Telemetry Badge -->
         <text x="500" y="236" text-anchor="middle" font-size="11" font-weight="500" fill="#ffffff" letter-spacing="3" opacity="0.5">[ KERNEL_DECRYPTED // HIGH_PERFORMANCE_SYSTEMS_ONLINE ]</text>
 

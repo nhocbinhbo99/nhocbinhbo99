@@ -7,7 +7,7 @@
 
   <!-- 2. BIO & IDENTITY DESCRIPTION -->
   <p align="center">
-    <strong>Full-stack Developer &amp; Software Systems Builder</strong> &bull; Creator of <a href="https://ticketflix.me"><strong>TicketFlix</strong></a><br/>
+    <strong>Full-stack Developer</strong><br/>
     <sub>Passionate about building high-performance, maintainable, and well-architectured software systems.</sub>
   </p>
 

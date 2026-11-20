@@ -44,7 +44,7 @@
 
 Hey, I'm **Julian Hoang** (**Thành Công** / `nhocbinhbo99`) - a **Backend-focused Full-stack Developer** based in Ho Chi Minh City, Vietnam.
 
-* **Enterprise Backend & Security (Production - Veron Group):** Architecting **CoreIam** on the multi-tenant **vPlatform** ecosystem with **Laravel 11**, **PostgreSQL**, Spatie RBAC/ABAC, 3-tier PII protection (AES-256 + HMAC-SHA256), and SHA-256 hash-chained audit logs under Decree 13/2023/ND-CP.
+* **Enterprise Backend & Security (Production - Veron Group):** Implementing core RBAC/ABAC access control, 3-tier PII protection (AES-256 + HMAC-SHA256), and SHA-256 hash-chained audit logging modules in **CoreIam** on **vPlatform** (**Laravel 11**, **PostgreSQL**), supporting Decree 13/2023/ND-CP data-privacy controls.
 * **Full-Stack & Java / Node.js Systems:** Building concurrent web backends with **Java 21 / Spring Boot 3.5** (JPA `@Version` optimistic locking, EMVCo VietQR, SSE), **Node.js / Express**, **Maven Multi-module** re-architectures, and **React / TypeScript** interfaces.
 * **Mobile & Realtime Engineering:** Leading **HeartSync** - an Android-first **React Native (Expo 58)** app backed by **Supabase RLS** (14 tables), **LiveKit WebRTC** 1-on-1 calling, and quota-controlled **Gemini AI** Edge Functions.
 
@@ -58,12 +58,12 @@ Hey, I'm **Julian Hoang** (**Thành Công** / `nhocbinhbo99`) - a **Backend-focu
   <tr>
     <td width="100%" valign="top">
       <p><strong>vPLATFORM - COREIAM (VERON GROUP)</strong> &nbsp; <code>[PRODUCTION · IN PROGRESS]</code> &bull; <code>10/2026 - Present</code></p>
-      <p><sub>Backend / Full-stack Developer - Enterprise Multi-Tenant IAM &amp; Security Compliance</sub></p>
+      <p><sub>Backend / Full-stack Developer - Multi-Tenant RBAC/ABAC, PII Protection &amp; Audit Logging</sub></p>
       <p>
-        Architecting the modular <strong>CoreIam</strong> security package (<strong>11 governance sub-modules</strong>, <strong>16 migrations</strong>,
-        <strong>27 PHPUnit tests / 207 assertions</strong> including adversarial fuzzing). Implemented <strong>3-tier Phone PII protection</strong>
+        Implementing and testing core modules in the <strong>CoreIam</strong> security package (<strong>11 governance sub-modules</strong>, <strong>16 migrations</strong>,
+        <strong>27 PHPUnit tests / 207 assertions</strong> including adversarial fuzzing). Built <strong>3-tier Phone PII protection</strong>
         (<code>phone_masked</code>, AES-256 <code>phone_encrypted</code>, HMAC-SHA256 <code>phone_hash</code>) and PostgreSQL trigger-guarded
-        <strong>SHA-256 hash-chained audit logs</strong> compliant with Decree 13/2023/ND-CP.
+        <strong>SHA-256 hash-chained audit logs</strong> supporting Decree 13/2023/ND-CP data-privacy controls.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Laravel_11-000000?style=flat-square&logo=laravel&logoColor=white" />
@@ -119,7 +119,7 @@ Hey, I'm **Julian Hoang** (**Thành Công** / `nhocbinhbo99`) - a **Backend-focu
         <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" />
       </p>
     </td>
-  </tr>
+x`  </tr>
   <tr>
     <td width="50%" valign="top">
       <p><strong><a href="https://ticketflix.me">TICKETFLIX</a></strong> &nbsp; <code>[WEB · LIVE]</code> &bull; <code>09/2025 - 12/2025</code></p>
